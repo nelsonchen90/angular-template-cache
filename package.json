@@ -1,0 +1,24 @@
+{
+  "name": "angular-template-cache",
+  "version": "0.0.1",
+  "description": "solving angular loading template html with multiple XHR.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nelsonchen90/angular-template-cache.git"
+  },
+  "author": "xixiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsonchen90/angular-template-cache/issues"
+  },
+  "homepage": "https://github.com/nelsonchen90/angular-template-cache#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-livereload": "^3.8.1",
+    "karma": "^1.1.1"
+  }
+}
