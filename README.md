@@ -1,3 +1,12 @@
 # angular-template-cache
-When using template-url to load angular directives, it will fire multiple XHR. Most browsers have limitation 
-on concurrent XHR calls hence the performance is not good on first load with lots of directives.
+
+This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
+version 0.15.1.
+
+## Build & development
+
+Run `grunt` for building and `grunt serve` for preview.
+
+## Testing
+
+Running `grunt test` will run the unit tests with karma.
